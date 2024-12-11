@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247982645339",
+    "project_id": "yonetici-fca27",
+    "storage_bucket": "yonetici-fca27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247982645339:android:148fef6452598764f85f7e",
+        "android_client_info": {
+          "package_name": "com.example.yonetici_paneli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfQuKh6_krAeWJpJf4pZ1_WV6sJvrv9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
